@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.45254834"
-     inkscape:cx="353.20039"
-     inkscape:cy="657.8165"
+     inkscape:zoom="1.8101934"
+     inkscape:cx="611.73631"
+     inkscape:cy="525.23398"
      inkscape:document-units="mm"
      inkscape:current-layer="g6085"
      showgrid="false"
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -863,20 +863,6 @@
         </g>
       </g>
       <circle
-         cy="-1868.6302"
-         cx="3812.1123"
-         id="circle5255"
-         style="opacity:1;fill:none;fill-opacity:0.39215686;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.31711137;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="scale(1,-1)"
-         r="14.900499" />
-      <circle
-         r="14.900499"
-         transform="scale(1,-1)"
-         style="opacity:1;fill:none;fill-opacity:0.39215686;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.31711137;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle5259"
-         cx="3812.1123"
-         cy="-2400.126" />
-      <circle
          r="8.681078"
          cy="1868.6302"
          cx="3812.1123"
@@ -888,34 +874,6 @@
          cx="3812.1123"
          cy="2400.126"
          r="8.681078" />
-      <circle
-         r="14.900499"
-         transform="scale(1,-1)"
-         style="opacity:1;fill:none;fill-opacity:0.39215686;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.31711137;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="use4330"
-         cx="3493.2146"
-         cy="-1992.646" />
-      <circle
-         cy="-2276.1104"
-         cx="3493.2146"
-         id="circle5251"
-         style="opacity:1;fill:none;fill-opacity:0.39215686;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.31711137;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="scale(1,-1)"
-         r="14.900499" />
-      <circle
-         r="14.900499"
-         transform="scale(1,-1)"
-         style="opacity:1;fill:none;fill-opacity:0.39215686;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.31711137;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="circle5263"
-         cx="4131.0098"
-         cy="-1992.646" />
-      <circle
-         cy="-2276.1104"
-         cx="4131.0098"
-         id="circle5267"
-         style="opacity:1;fill:none;fill-opacity:0.39215686;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.31711137;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         transform="scale(1,-1)"
-         r="14.900499" />
       <circle
          style="opacity:1;fill:none;fill-opacity:0.39215686;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.35438013;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle5081"
