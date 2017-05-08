@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="wxy-pic.svg">
+   sodipodi:docname="wxy-pic.svg"
+   inkscape:export-filename="/Users/dgyHome/Documents/workspace/inilabs-goalie-design/wxy-pic"
+   inkscape:export-xdpi="225"
+   inkscape:export-ydpi="225">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -26,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.979899"
-     inkscape:cx="-75.56166"
+     inkscape:cx="-162.93985"
      inkscape:cy="13.50482"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -48,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
