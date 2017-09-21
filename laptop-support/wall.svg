@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="370.10001mm"
-   height="220.10001mm"
-   viewBox="0 0 1311.378 779.88191"
+   width="182.09914mm"
+   height="155.10007mm"
+   viewBox="0 0 645.23317 549.56717"
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.79345305"
-     inkscape:cx="338.50305"
-     inkscape:cy="464.02082"
+     inkscape:cx="-38.050901"
+     inkscape:cy="337.7019"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -36,10 +36,10 @@
      inkscape:window-x="0"
      inkscape:window-y="23"
      inkscape:window-maximized="1"
-     fit-margin-top="10"
-     fit-margin-left="10"
-     fit-margin-right="10"
-     fit-margin-bottom="10" />
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -48,7 +48,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,7 +56,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(366.56599,-204.55129)">
+     transform="translate(208.04635,-308.5471)">
     <path
        style="opacity:1;fill:none;fill-opacity:0.39215686;fill-rule:nonzero;stroke:#ff0000;stroke-width:0.35433072;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m -175.98246,308.72423 -7.08398,7.08594 0,143.50391 -17.7168,0 -7.08594,7.08593 0,233.85938 7.08594,7.08594 17.7168,0 0,150.59179 602.35937,0 c 9.815,0 17.7168,-7.90183 17.7168,-17.71679 l 0,-496.0625 c 0,-9.81496 -7.9018,-17.7168 -17.7168,-17.7168 l -70.86523,0 0,-10.63086 -7.08594,-7.08594 -162.99414,0 -7.08593,7.08789 0,10.62891 -177.1640678,0 0,-10.63086 -7.0859302,-7.08594 -162.994152,0 z"
